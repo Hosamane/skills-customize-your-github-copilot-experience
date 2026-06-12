@@ -98,5 +98,30 @@
         }
       ]
     }
+    ,
+    {
+      "id": "interactive-data-storytelling",
+      "title": "Interactive Data Storytelling with Plotly",
+      "description": "Build interactive Plotly visualizations and assemble an HTML data story.",
+      "path": "assignments/interactive-data-storytelling",
+      "dueDate": "2026-07-24",
+      "attachments": [
+        {
+          "name": "Starter Script",
+          "file": "main.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "data.csv",
+          "type": "csv"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "text"
+        }
+      ]
+    }
   ]
 }
