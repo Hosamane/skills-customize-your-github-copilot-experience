@@ -59,5 +59,44 @@
         }
       ]
     }
+    ,
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create a simple REST API using FastAPI: endpoints, Pydantic models, validation, and docs.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-07-10",
+      "attachments": [
+        {
+          "name": "Assignment README",
+          "file": "README.md",
+          "type": "markdown"
+        }
+      ]
+    },
+    {
+      "id": "python-data-visualization",
+      "title": "Python Data Visualization",
+      "description": "Create static and interactive charts using matplotlib and Plotly.",
+      "path": "assignments/python-data-visualization",
+      "dueDate": "2026-07-17",
+      "attachments": [
+        {
+          "name": "Starter Script",
+          "file": "main.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "data.csv",
+          "type": "csv"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "text"
+        }
+      ]
+    }
   ]
 }
